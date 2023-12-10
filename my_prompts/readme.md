@@ -1,14 +1,10 @@
-Here I have compiled a set of prompts that I had developed, tweaked and implemented in my daily tasks throughout my journey in AIML. These prompts have optimized my interactions with ChatGPT and Bard, yielding the best possible output. 
-
-<h1 align="center">🤖 AI Prompt Repository 📝</h1>
-
 <p align="center">
   <strong>Curated collection of AI prompts for various problem statements</strong>
 </p>
 
 ## Overview ℹ️
 
-This repository houses a diverse set of prompts developed and utilized across multiple AI and Machine Learning projects. These prompts cater to different problem statements, assisting in generating outputs using various AI platforms.
+Here I have compiled a set of prompts that I had developed, tweaked and implemented in my daily tasks throughout my journey in AIML. These prompts have optimized my interactions with ChatGPT and Bard, yielding the best possible output. 
 
 ## Contents 📚
 
@@ -36,7 +32,4 @@ Explore the prompts categorized by date, AI platform, and corresponding problem 
 
 Contributions are welcome! Please add new prompts along with their details and output links. Follow the provided format for consistency.
 
-## License 📜
-
-This project is licensed under [CC0 1.0 Universal]([link_to_license](https://creativecommons.org/publicdomain/zero/1.0/)https://creativecommons.org/publicdomain/zero/1.0/).
 
