@@ -1,6 +1,3 @@
-# prompt_engineering
-
-
 
 <h1 align="center">🤖 AI Prompt Repository 📝</h1>
 
