@@ -9,7 +9,7 @@ To maximize performance, provide clear and specific queries. Break down complex 
 Example: Instead of "Tell me about technology," ask "Can you explain the key advancements in artificial intelligence over the last five years?"
  ```
  
-**Use Context:** Provide relevant context to your question. This helps me understand the background and deliver more accurate responses.
+**Use Context:** Provide relevant context to your question. This helps AI understand the background and deliver more accurate responses.
 
  ```bash
 Example: Instead of "What's the weather like?" specify "What is the weather forecast for New York City tomorrow?"
