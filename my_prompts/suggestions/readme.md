@@ -67,6 +67,8 @@ These examples demonstrate the breadth of complex inquiries it can handle, rangi
 
 ---
 
+## Prompt Design For Users
+
 **User Needs Analysis:**
 Understand the specific requirements and goals of users.
 Analyze common user queries and pain points to identify patterns.
