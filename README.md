@@ -7,7 +7,7 @@
 
 ## Overview ℹ️
 
-This repository houses a diverse set of prompts resources that i had come across during my AI and Machine Learning journey. For more detailed information feel free to read my book on Prompt Engineeering.
+This repository houses a diverse set of prompts resources that i had come across during my AI and Machine Learning journey. For more detailed information feel free to navigate through each section.
 
 ## Contents 📚
 
